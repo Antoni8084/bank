@@ -1,0 +1,3 @@
+/home/priver/Studies/bank/cmake-build-debug/CMakeFiles/bank.dir
+/home/priver/Studies/bank/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/priver/Studies/bank/cmake-build-debug/CMakeFiles/rebuild_cache.dir

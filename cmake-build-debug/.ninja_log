@@ -1,0 +1,7 @@
+# ninja log v6
+2	651	1734377722575080723	CMakeFiles/bank.dir/main.cpp.o.ddi	99d9cbf63497dbe1
+651	666	1734377723239088099	CMakeFiles/bank.dir/CXX.dd	fd7f057e157dadc6
+651	666	1734377723239088099	/home/priver/Studies/bank/cmake-build-debug/CMakeFiles/bank.dir/CXXModules.json	fd7f057e157dadc6
+651	666	1734377723239088099	CMakeFiles/bank.dir/main.cpp.o.modmap	fd7f057e157dadc6
+666	3011	1734377723239088099	CMakeFiles/bank.dir/main.cpp.o	6a653c01ddbace0f
+3013	3220	1734377725591114228	bank	e0c0705b2559cb59
